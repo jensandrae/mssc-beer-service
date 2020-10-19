@@ -7,7 +7,9 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.UUID;
 
-
+/**
+ * Created by Jens on 2020-10-19
+ */
 @RequestMapping("/api/v1/beer")
 @RestController
 public class BeerController {

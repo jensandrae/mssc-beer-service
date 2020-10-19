@@ -12,7 +12,6 @@ import java.util.UUID;
 /**
  * Created by Jens on 2020-10-19
  */
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

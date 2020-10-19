@@ -13,6 +13,9 @@ import java.util.UUID;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
+/**
+ * Created by Jens on 2020-10-19
+ */
 @WebMvcTest(BeerController.class)
 class BeerControllerTest {
 
