@@ -141,3 +141,5 @@ Desktop.ini
 /.idea/
 
 /.mvn/
+*.mvn/
+.mvn/
